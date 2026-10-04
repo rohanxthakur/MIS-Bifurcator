@@ -14,7 +14,7 @@ Three spreadsheets go in, a fully-linked, drill-down management income statement
 ![Tests](https://img.shields.io/badge/tests-126%20passing-2ea44f?logo=vitest&logoColor=white)
 ![Vercel](https://img.shields.io/badge/hosted-Vercel%20%28Mumbai%29-000?logo=vercel)
 
-<img src="docs/screenshots/dashboard.png" alt="Dashboard: the three monthly uploads and the open month" width="900">
+<img src="dashboard.png" alt="Dashboard: the three monthly uploads and the open month" width="900">
 
 </div>
 
@@ -66,8 +66,8 @@ flowchart LR
 
 <table>
 <tr>
-<td width="50%"><img src="docs/screenshots/mis-summary.png" alt="Consolidated MIS"></td>
-<td width="50%"><img src="docs/screenshots/console-bottom.png" alt="Contribution to net profit"></td>
+<td width="50%"><img src="mis-summary.png" alt="Consolidated MIS"></td>
+<td width="50%"><img src="console-bottom.png" alt="Contribution to net profit"></td>
 </tr>
 <tr>
 <td align="center"><b>Consolidated MIS</b>: revenue net of commission, mess, gross profit</td>
@@ -77,7 +77,7 @@ flowchart LR
 
 **Every expense name is a link.** Click one and it opens the head hostel by hostel, month by month:
 
-<img src="docs/screenshots/drill-down.png" alt="Drill-down: building rent hostel by hostel" width="900">
+<img src="drill-down.png" alt="Drill-down: building rent hostel by hostel" width="900">
 
 ### How the P&L adds up
 
